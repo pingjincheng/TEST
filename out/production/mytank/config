@@ -1,0 +1,3 @@
+#initTankCount
+initTankCount=10
+goodFs=com.mashibing.tank.FourDirFireStrategy
